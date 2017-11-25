@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\8cb14c7009fe547539784ce8208e3a60\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\2fafac0ec0b7e034d8d2ab93388dc7f7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\9985149ed6e1501521c00268d4c9ad2c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\2209a9ea8e86f26ab819b3d92c01bc8b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\fea321e4e16b6d687f007b58b45a9d1a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\e5091bf481b4cb6eaef38b970a7aa959\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\bdddefc8a6f9784882fb9c79b9ac5d6b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\8f736a297008572ad9337870611c47e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\77fee178501adf0be29e8d95d811f6c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\a5fb111671b6005c63105f0d21b923e8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\809d5038d2d7f0a3a39d89c13dc157c3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saina\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\SCHOOL\CS4518\proj2\2017-project2-assigned\2017-project2-assigned\CriminalIntent2\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+
+</items>
